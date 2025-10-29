@@ -1,0 +1,14 @@
+transformers
+accelerate
+datasets
+streamlit
+pillow
+torch
+jinja2
+torchvision
+torchaudio
+boto3
+seaborn
+numpy
+pandas
+matplotlib
